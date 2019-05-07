@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void hanoi_tower(const int n,char a, char b, char c){   
+void hanoi_tower(int n,char a, char b, char c){   
     //qnt. de discos, torre inicial, torre interm., torre final
     
     //Passo Recursivo anterior
